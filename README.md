@@ -30,7 +30,7 @@ $ npm run storybook
 
 ## Prerequisites
 
-It is required to have `react-query` library installed and configured.
+It is required to have `@tanstack/react-query` library installed and configured.
 
 ## Installation
 
